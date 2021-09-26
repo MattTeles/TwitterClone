@@ -1,7 +1,7 @@
 # Twitter Clone Responsive
 
 
-# Technologies
+> Technologies
 
 + HTML 5
 + CSS3
