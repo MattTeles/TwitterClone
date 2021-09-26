@@ -1,8 +1,8 @@
 # Twitter Clone Responsive
 
 > Status: Complete ✔️
-<br>
-Technologies
+
+## Technologies.
 
 + HTML 5
 + CSS3
