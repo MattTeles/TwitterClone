@@ -19,3 +19,13 @@
   </tr>
 </table>
 
+
+## How to run the application:
+
+
+1) Login using any character. (Exemple: User: anyone Password: 1234)
+2) The app uses display switching for current screens
+3) browse the application
+
+
+
