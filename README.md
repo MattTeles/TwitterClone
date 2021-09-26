@@ -6,6 +6,16 @@
 
 ## Technologies.
 
-+ HTML 5
-+ CSS3
-+ JavaScript
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>3</td>
+    <td>ES6</td>
+  </tr>
+</table>
+
