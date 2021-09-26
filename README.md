@@ -1,2 +1,2 @@
-# TwitterClone Responsive
+# Twitter Clone Responsive
 
